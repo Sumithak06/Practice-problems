@@ -1,0 +1,10 @@
+z,x,c,v=1,2,3,4
+print(z)
+print(x)
+print(c)
+print(v)
+a=s=d=f=45
+print(a)
+print(s)
+print(d)
+print(f)
