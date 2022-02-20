@@ -1,0 +1,11 @@
+a='python'
+print(len(a))
+print(a.find('t'))
+print(a.capitalize())
+print(a.upper())
+print(a.lower())
+print(a.isdigit())
+print(a.isalpha())
+print(a.count('t'))
+print(a.replace('t','a'))
+print(a*10)
